@@ -13,3 +13,7 @@ that, so for this -
 1. styled components (npm package)
 it helps us in creating styles, which are only attached to a specific component. Hence will affect only
 that component, and not any other component.
+
+2. CSS Modules
+project needs to have configuration made to support it. All the projects made by create-react-app has
+these configurations already done for them.
